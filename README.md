@@ -169,7 +169,7 @@ gaianet start
 
 > [Buradan](https://www.gaianet.ai/setting/gaia-api-keys) bir API key oluşturup saklayın keyi.
 
-```console skrin aciriq
+```console skrin aciriq ```
 screen -S gaia
 ```
 
