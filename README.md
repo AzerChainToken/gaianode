@@ -169,12 +169,18 @@ gaianet start
 
 > [Buradan](https://www.gaianet.ai/setting/gaia-api-keys) bir API key oluşturup saklayın keyi.
 
-```console
-curl -L -o gaiabot.py https://github.com/enzifiri/gaia-node/raw/main/gaiabot.py
+```console skrin aciriq
 screen -S gaia
-python3 gaiabot.py
+```
 
-# akabinde CTRL A D ile çıkış yapabilirsiniz burdan.
+```skripti yukleyirik
+wget https://raw.githubusercontent.com/AzerChainToken/grass/refs/heads/main/1.py
+```
+``` skripi ise saliriq
+python3 1.py
+```
+```
+#  CTRL A D vurub skripti baglamadan cixa bilerik.
 ```
 
 > Refresh attıkca consumed artacak.
