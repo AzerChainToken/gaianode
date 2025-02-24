@@ -169,17 +169,15 @@ gaianet start
 
 > [Buradan](https://www.gaianet.ai/setting/gaia-api-keys) bir API key oluşturup saklayın keyi.
 
-```console skrin aciriq ```
-screen -S gaia
-```
+console skrin aciriq 
+``` screen -S gaia ```
 
-```skripti yukleyirik
-wget https://raw.githubusercontent.com/AzerChainToken/grass/refs/heads/main/1.py
-```
-``` skripi ise saliriq
-python3 1.py
-```
-```
+skripti yukleyirik
+``` wget https://raw.githubusercontent.com/AzerChainToken/grass/refs/heads/main/1.py ```
+
+skripi ise saliriq
+``` python3 1.py ```
+
 #  CTRL A D vurub skripti baglamadan cixa bilerik.
 ```
 
