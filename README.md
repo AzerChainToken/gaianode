@@ -145,8 +145,12 @@ gaianet start
 ```
 
 > node ayarlarına [gidelim](https://www.gaianet.ai/setting/nodes)
-
+ 
 > Görseldeki 3 noktaya tıklayıp join domain diyelim
+
+
+
+
 
 <img width="424" alt="Ekran Resmi 2025-02-07 21 47 50" src="https://github.com/user-attachments/assets/a1de0b3e-1a80-498f-8bbc-0b373024173c" />
 
